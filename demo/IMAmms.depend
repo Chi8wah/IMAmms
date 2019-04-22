@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1541315113 source:f:\codes\imamms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
+1541315113 source:c:\users\administrator\desktop\imamms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<conio.h>
+
